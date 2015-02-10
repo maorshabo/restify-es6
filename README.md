@@ -1,6 +1,5 @@
 nodes-restful-api
 =================
 
-Simple Blogging RESTful API with NodeJS and Restify
+Restify framework wrapped with Javascript ES6 (Harmony)
 
-Set MONGO_URL as your MongoDB URL
