@@ -1,14 +1,16 @@
 {
-  "name": "express-restful-api",
+  "name": "restify-es6",
   "version": "0.0.1",
   "main": "dist/server.js",
   "scripts": {
     "compile": "6to5 app --out-dir dist"
   },
   "dependencies": {
-    "es6-module-loader": "^0.12.0",
-    "mongoose": "3.8.8",
     "6to5": "*",
+    "del": "^1.1.1",
+    "es6-module-loader": "^0.12.0",
+    "gulp": "^3.8.11",
+    "mongoose": "3.8.8",
     "restify": "latest"
   },
   "engines": {
